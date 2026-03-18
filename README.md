@@ -70,3 +70,6 @@ Retail and sales data analysis, including:
 - Best practices for storytelling with data  
 
 ---
+<img width="393.5" height="341.5" alt="image" src="https://github.com/user-attachments/assets/d37383bb-2bcd-4d19-a284-9eaed26946b0" />
+<img width="385.5" height="191.5" alt="image" src="https://github.com/user-attachments/assets/2b2d6a29-dfc9-4ff1-bfdc-235db4cdb01d" />
+https://public.tableau.com/app/profile/fatmata.dumbuya/vizzes
